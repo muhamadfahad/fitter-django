@@ -1,4 +1,7 @@
 
+How to use linux shell
+https://www.youtube.com/watch?v=T0Db6dVYyoA&list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by
+
 Python intro
 https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
